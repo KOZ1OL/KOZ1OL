@@ -10,7 +10,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-<h2>🛠 Programming languages witch i can use... </h2>
+<h2>🛠 Programming languages which i can use... </h2>
 
 ![vscode](https://img.shields.io/badge/-vscode-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20 )
 ![html](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoWidth=20&logoColor=white)
