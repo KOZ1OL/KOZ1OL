@@ -31,4 +31,16 @@
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username={KOZ1OL}&theme=blue-green)
+<h2>🛠If you want you can join to my discord. I can learn you hacking, coding or write a program for you</h2>
+https://discord.gg/4wgxB5526T
+
+<h2>🛠 My stats  </h2>
+
+![KOZIOL GitHub stats](https://github-readme-stats.vercel.app/api?username=KOZ1OL&show_icons=true&theme=highcontrast)
+
+![TOP](https://github-readme-stats.vercel.app/api/top-langs/?username=KOZ1OL&layout=compact&theme=highcontrast)
+
+
+
+
+
