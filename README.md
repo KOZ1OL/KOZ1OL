@@ -22,7 +22,7 @@
 ![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![git](https://img.shields.io/badge/-GIT-EE0000?style=for-the-badge&logo=git&logoWidth=20&logoColor=white)
 
-<h2>🛠 I also use other programs like... </h2>
+<h2>🛠 I also use other programs and sites like... </h2>
 
 ![tor](https://img.shields.io/badge/-TOR-purple?style=for-the-badge&logo=tor-browser&logoWidth=20)
 ![ovpn](https://img.shields.io/badge/-openvpn-F46800?style=for-the-badge&logo=openvpn&logoWidth=20&logoColor=white)
