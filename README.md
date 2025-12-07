@@ -15,6 +15,7 @@
 ![vscode](https://img.shields.io/badge/-vscode-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20 )
 ![html](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoWidth=20&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C/C++-blue?style=for-the-badge&logo=c&logoColor=black)
 ![python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoWidth=20&logoColor=white)
 ![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![git](https://img.shields.io/badge/-GIT-EE0000?style=for-the-badge&logo=git&logoWidth=20&logoColor=white)
