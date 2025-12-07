@@ -12,7 +12,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=fff)
 <h2>🛠 Programming languages and apps which i'm using... </h2>
 
-![vscode](https://img.shields.io/badge/-vscode-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20 )
 ![html](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoWidth=20&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C/C++-blue?style=for-the-badge&logo=c&logoColor=black)
@@ -24,8 +23,7 @@
 
 ![tor](https://img.shields.io/badge/-TOR-purple?style=for-the-badge&logo=tor-browser&logoWidth=20)
 ![ovpn](https://img.shields.io/badge/-openvpn-F46800?style=for-the-badge&logo=openvpn&logoWidth=20&logoColor=white)
-
-
+![vscode](https://img.shields.io/badge/-vscode-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20 )
 
 
 <h2>🛠 My stats  </h2>
