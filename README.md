@@ -5,7 +5,7 @@
 <h2>🛠 Systems which I'm using... </h2>
 
 ![Linux](https://img.shields.io/badge/-Linux-F9AB00?style=for-the-badge&logo=linux&logoColor=white&logoWidth=20)
-![KaliLinux](https://img.shields.io/badge/KALI&LINUX-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
+![KaliLinux](https://img.shields.io/badge/KALI_LINUX-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![rpi](https://img.shields.io/badge/-rpi-EE0000?style=for-the-badge&logo=raspberry-pi&logoWidth=20)
