@@ -1,5 +1,6 @@
 <h1 align=center>Hello everybody 👋</h1>
-<p align=center>I'm Michał. I'm a microprocessor software programmer and electronics engineer. I also create software for Kali Linux for security testing. </p><br>
+<p align=center>I'm Michał. I'm a microprocessor software programmer and electronics engineer. </p><br>
+<p align=center>I also create software for Kali Linux for security testing. </p><br>
 
 <h2>🛠 Systems which I'm using... </h2>
 
