@@ -9,7 +9,7 @@
 ![rpi](https://img.shields.io/badge/-rpi-EE0000?style=for-the-badge&logo=raspberry-pi&logoWidth=20)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=fff&style=plastic)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=fff)
 <h2>🛠 Programming languages and apps which i'm using... </h2>
 
 ![vscode](https://img.shields.io/badge/-vscode-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20 )
