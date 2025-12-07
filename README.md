@@ -26,14 +26,7 @@
 ![vscode](https://img.shields.io/badge/-vscode-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20 )
 
 
-<h2>🛠 My stats  </h2>
 
-
-![KOZIOL GitHub stats](https://github-readme-stats.vercel.app/api?username=KOZ1OL&show_icons=true&theme=highcontrast)
-
-
-
-![TOP](https://github-readme-stats.vercel.app/api/top-langs/?username=KOZ1OL&layout=compact&theme=highcontrast)
 
 
 
